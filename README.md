@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi there, I'm frontier_vekia
 
-<!--
-**VEKIA101010/VEKIA101010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+class Explorer:
+    def __init__(self):
+        self.name = "frontier_vekia"
+        self.origin = "Beijing, China 🇨🇳"
+        self.future_goal = "Start college in Fall 2027 (USC 🏞️🏖️)"
+        self.core_identity = "Humanities student with a passion for tech"
+        self.languages = ["Mandarin 🇨🇳", "English 🇺🇸", "a bit of French 🇫🇷"]
+        self.interests = [
+            "📖 History & Philosophy",
+            "⚽ Football (Chelsea 💙, Messi 🐐)",
+            "🚴 Biking, 🧗 Hiking, 🥾 Trekking, 🧭 Exploring",
+            "🔧 Mechanics",
+        ]
 
-Here are some ideas to get you started:
+    def motto(self):
+        return "Nee spe nec metu — Without hope, without fear."
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    def dream(self):
+        return "Mountains, ocean, freedom, long summers, and movement."
+
+me = Explorer()
+print(me.motto())
