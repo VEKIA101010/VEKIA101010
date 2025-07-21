@@ -14,27 +14,7 @@ I'm a humanities student with a passion for tech, currently based in **Beijing �
 - 🌍 Trilingual: **Mandarin**, **English**, and a bit of **French**
 
 ---
-
-## 🛠️ Tech Stack
-
-| Tool        | Status         |
-|-------------|----------------|
-| Python 🐍    | Actively building tools with it |
-| Pandas 📊    | Data crunching & exploration |
-| Matplotlib 📈 | Visualization and story-telling |
-| Git & GitHub | Version control, collaborative building |
-| Jupyter 📓   | Thinking spaces in code form |
-
----
-
-## 📂 Current Projects
-
-- `crypto-arbitrage-bot`: real-time crypto exchange monitor  
-- `finance-news-analyzer`: NLP-based market news sentiment tool  
-- `daily-motion-tracker`: track your daily energy, mood, and activity
-
----
-
+ 
 ## ✨ Motto
 
 **Nee spe nec metu** — *Without hope, without fear*  
